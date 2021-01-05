@@ -17,4 +17,4 @@ to make it executable and
 ```
 $ ./compile.sh foo
 ```
-to use it. (Keep in mind this is just for one file executables)
+to use it. (Also make sure you have a 'bin' directory) (Keep in mind this is just for one file executables)
